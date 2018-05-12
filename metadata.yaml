@@ -1,0 +1,44 @@
+_repo: How-to-Sing-Meine-Gesangskunst-_19116
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Aldrich, Richard
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '8480'
+    url: http://www.gutenberg.org/2009/agents/8480
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lehmann, Lilli
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '8478'
+    url: http://www.gutenberg.org/2009/agents/8478
+    wikipedia: http://en.wikipedia.org/wiki/Lilli_Lehmann
+description: This classic guide teaching the reader the techniques of singing was
+  written by a professional opera singer - Lilli Lehman - over 100 years ago. It has
+  since become a must-read book for all those wishing to expand their vocal talents,
+  and teaches a range of skills which the amateur singer often overlooks. Miss Lehmann
+  was born in Germany in 1848 and went on to become a soprano of phenomenal versatility
+  and in later years a voice teacher of much acclaim. Miss Lehmann sung her way around
+  europe appearing in most of the leading opera houses - her voice was her passport.
+  Looking at her presence on.
+gutenberg_bookshelf: Music
+gutenberg_issued: '2006-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Singing -- Methods'
+title: 'How to Sing
+
+  [Meine Gesangskunst]'
+url: http://www.gutenberg.org/ebooks/19116
